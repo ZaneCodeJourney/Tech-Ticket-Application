@@ -26,7 +26,9 @@ const DataTable = ({ tickets }: Props) => {
               <TableHead>
                 <div className="flex justify-center">Status</div>
               </TableHead>
-              <TableHead>Priority</TableHead>
+              <TableHead>
+                <div className="flex justify-center">Priority</div>
+              </TableHead>
               <TableHead>Created At</TableHead>
             </TableRow>
           </TableHeader>

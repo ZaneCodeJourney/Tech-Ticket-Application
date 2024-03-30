@@ -12,5 +12,6 @@ export async function POST(request: NextRequest) {
   const newTicket = await prisma.ticket.create({
     data: { ...body },
   });
+
   return NextResponse.json(newTicket, { status: 201 });
 }

@@ -11,12 +11,12 @@ This Tech Ticketing Application, built with Next.js 14, Tailwind CSS, NextAuth, 
 Here's a glimpse of the Application.
 
 <p align="center">
-  <img src="public/readmefile/readmeTicketImage.png" width="48%" />
+  <img src="public/readmefile/readmeTicketImage.png" width="80%" />
   <br>
   <em>Figure 1: Ticket Overview</em>
 </p>
 <p align="center">
-  <img src="public/readmefile/dashboard.png" width="48%" />
+  <img src="public/readmefile/dashboard.png" width="80%" />
   <br>
   <em>Figure 2: Dashboard View</em>
 </p>
